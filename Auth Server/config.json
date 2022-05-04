@@ -1,0 +1,26 @@
+{
+    "server-config": {
+        "hostName": "127.0.0.1",
+        "port": 3000
+    },
+    "mysql-config": {
+        "hostName": "localhost",
+        "database": "ldap-linked",
+        "username": "jalali.dev",
+        "password": "123456789Jalali"
+    },
+    "ldap-config": {
+        "url": "LDAP://192.168.20.128/",
+        "allowedDomain": "jalali.local",
+        "suffix": "DC=jalali,DC=local",
+        
+        "username": "yavartest2@jalali.local",
+        "password": "1361402301Yabi"
+    },
+    "jwt-config": {
+        "token_expire_time": "20m",
+        "access_token_secret": "e025b5cddda3a30d7d7c9e02205f8b329984736ee99a68f44f3445884fa80257b2c08f7bc3168aae0898f13cfdb98a48287f8c8624bf0c8c7a5424ca97068c5f",
+        "refresh_token_secret": "0dd8d60c31ca03869ee84ac0fe7f738ae4e30297ba99a0d52d7d1a7f255302928bd5e136208a610a9b594851e95f2a63ad5f7f99678cedcbf4b68f895dbb9633"
+    },
+    "google-client-id": "1063191541533-papvgprnbqt3u0inn5d3v68n0ll764sm.apps.googleusercontent.com"
+}

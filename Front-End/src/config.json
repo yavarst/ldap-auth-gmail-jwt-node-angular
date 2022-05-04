@@ -1,0 +1,5 @@
+{
+    "API-base-address": "http://localhost:3000/",
+    "allowedDomain": "jalali.local",
+    "google-client-id": "1063191541533-papvgprnbqt3u0inn5d3v68n0ll764sm.apps.googleusercontent.com"
+}

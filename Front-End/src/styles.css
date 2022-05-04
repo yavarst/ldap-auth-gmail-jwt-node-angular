@@ -1,0 +1,57 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    text-align: center;
+    padding: 20px;
+    overflow: hidden auto;
+    font-family: calibri, serif;
+}
+.google_btn {
+    position: relative;
+    width: 100%;
+    max-width: 360px;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1.3em;
+    margin-top: 36px;
+    padding: 10px 6px;
+    background-color: #f4f7fa;
+    border: 2px solid #f4f7fa;
+    color: #6d8297;
+    box-sizing: border-box;
+    transition-property: border-color, background-color;
+    transition-duration: .3s;
+}
+.google_btn:hover {
+    border-color: #6a78e2;
+}
+.google_btn:active {
+    background-color: #e1e4f9;
+    border-color: #6a78e2;
+}
+.google_btn svg {
+    position: absolute;
+    left: 10px;
+    top: 7px;
+}
+
+.message-box {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 9px;
+    height: auto;
+    border-radius: 6px;
+    /* font-weight: 700; */
+    font-size: 1.1em;
+    margin-top: 16px;
+}
+.message-box.green {
+    border: 2px solid rgba(0, 255, 0, 0.6);
+    background-color: rgba( 0, 255, 0,0.2);
+}
+.message-box.red {
+    border: 2px solid rgba(255, 0, 0, 0.6);
+    background-color: rgba(255, 0, 0, 0.2);
+}
