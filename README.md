@@ -7,10 +7,10 @@ The Back-End of project is developed with NodeJs(express) and MySQL, the Front-E
 
 
 ### You will read:
-- [Prerequisites of the project](https://github.com/yavarst/ldap-auth-project/edit/main/README.md#prerequisites-of-project)
-- [Explaination of `config.json` file in `Auth Server`](https://github.com/yavarst/ldap-auth-project/edit/main/README.md#explaination-of-configjson-file-in-auth-server-folder)
-- [Explaination of `config.json` file in `Front-End/src`](https://github.com/yavarst/ldap-auth-project/edit/main/README.md#explaination-of-configjson-file-in-front-endsrc-folder)
-- [How to run the project](https://github.com/yavarst/ldap-auth-project/edit/main/README.md#how-to-run-the-project)
+- [Prerequisites of the project](#prerequisites-of-project)
+- [Explaination of `config.json` file in `Auth Server`](#explaination-of-configjson-file-in-auth-server-folder)
+- [Explaination of `config.json` file in `Front-End/src`](#explaination-of-configjson-file-in-front-endsrc-folder)
+- [How to run the project](#how-to-run-the-project)
 
 ---
 
